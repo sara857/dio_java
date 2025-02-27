@@ -1,0 +1,14 @@
+security\WebSecurityConfig.class
+controller\UserController.class
+service\UserService.class
+DioSpringSecurityJwtApplication.class
+security\JWTObject.class
+controller\LoginController.class
+repository\UserRepository.class
+dtos\Sessao.class
+controller\WelcomeController.class
+security\SecurityConfig.class
+dtos\Login.class
+model\User.class
+security\JWTCreator.class
+security\JWTFilter.class
